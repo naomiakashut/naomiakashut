@@ -1,4 +1,4 @@
-- 👋 Please, allow me to introduce myself. I'm Naomi, also known as shutnik by some. I'm a CS student and I've been in front of a computer since I was 7 - and since then no one managed to take me away from it.
+- 👋 Please, allow me to introduce myself. I'm Naomi, also known as shutnik by some. I'm a CS student and I've been in front of a computer since I was 7 - and since then no one's managed to take me away from it.
 - 👀 I’m interested in videogames, books, mangas, series and languages. I love reading about Ancient Rome (wow much original, very *intellectual*) and the history of Russia and eastern Europe in general.
 - 🌱 I’m currently learning HTML5, CSS and JS. Starting my journey through web development, focusing on Front-End development. A cool interface is like effective skincare - the first impression can give a show.
 - 💞️ I’m looking to collaborate on JavaScript projects, specially React.
