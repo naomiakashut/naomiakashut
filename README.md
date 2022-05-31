@@ -5,11 +5,13 @@
 <br>E-mail: bazan.antonieta@gmail.com
 
 ##
+<center>
 <div>
   <a href="https://github.com/naomiakashut">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=naomiakashut&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomiakashut&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  </center>
 
 <!---
 naomiakashut/naomiakashut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
