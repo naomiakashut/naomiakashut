@@ -1,8 +1,7 @@
-- 👋 Please, allow me to introduce myself. I'm Naomi, also known as shutnik by some. I'm a CS student and I've been in front of a computer since I was 7 - and since then no one's managed to take me away from it.
-- 👀 I’m interested in videogames, books, mangas, series and languages. I love reading about Ancient Rome (wow much original, very *intellectual*) and the history of Russia and eastern Europe in general.
-- 📫 How to reach me:
-<br>Discord: shutnik#4077
-<br>E-mail: bazan.antonieta@gmail.com
+Contact me:
+<br><b>LinkedIn</b>: https://www.linkedin.com/in/a-naomi-bazan/
+<br><b>Discord</b>: shutnik#4077
+<br><b>E-mail</b>: bazan.antonieta@gmail.com
 
 ##
 <center>
