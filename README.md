@@ -1,7 +1,7 @@
 Contact me:
 <br><b>LinkedIn</b>: https://www.linkedin.com/in/a-naomi-bazan/
 <br><b>Discord</b>: shutnik#4077
-<br><b>E-mail</b>: bazan.antonieta@gmail.com
+<br><b>E-mail</b>: a.naomi.bazan@gmail.com
 
 ##
 <center>
